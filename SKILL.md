@@ -1,13 +1,13 @@
 ---
 name: open-research
 description: >
-  General-purpose, multi-source, cross-lingual, and date-aware research workflow for any domain.
-  Use this skill whenever the user needs deep or broad research, academic literature review or paper writing support,
-  industry/market/policy intelligence, GitHub repository & open-source tool evaluation, multi-angle fact-checking,
-  or everyday complex search ("search everywhere", "compare options", "what's the industry consensus", "help me research",
-  "全网查一下", "多找几个地方看看", "帮我调研", "写论文查文献", "了解某个行业").
-  Combines multi-platform bilingual/multilingual retrieval, adversarial cross-verification, GitHub maintenance & compatibility auditing,
-  and rigorous source-freshness evaluation into a single self-contained workflow.
+  A specialized AI search, verification, and information-synthesis skill for any domain.
+  It teaches the AI how to search across multiple platforms and languages, cross-verify facts, audit GitHub repos and source freshness,
+  and organize messy search results into clear, structured briefs.
+  Use this skill whenever the user wants the AI to search, gather, verify, or organize information—including academic literature review and paper writing,
+  industry/market/policy research, GitHub repository & open-source tool comparison, or everyday complex search
+  ("search everywhere", "help me research and organize", "compare options", "what's the industry consensus",
+  "全网查一下", "帮我搜索整理", "多找几个地方看看", "帮我调研", "写论文查文献", "了解某个行业").
 ---
 
 # Open Research
